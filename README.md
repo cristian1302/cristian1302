@@ -35,7 +35,3 @@ Me enfoco en crear soluciones **intuitivas, eficientes y escalables**. Me gusta 
 
 ---
 
-Este README da una visión completa de quién eres, qué sabes hacer y cómo puedes ser contactado, y también incluye enlaces a tus proyectos para que otras personas puedan explorarlos.
-
-Si tienes alguna preferencia o algo que te gustaría agregar o cambiar, ¡solo dímelo! 😊
-
